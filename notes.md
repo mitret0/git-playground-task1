@@ -21,4 +21,4 @@ I haven't changed or committed anything. I can write the summary into notes.md, 
 
 ✻ Cogitated for 10s · done 4:17 PM
 
-
+yes, it got the stuff I did unintentionally 
